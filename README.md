@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **SQL, Python..**
 
-- 📫 How to reach me **thibaud.mtt@icloud.com**
-
 - ⚡ Fun fact </br> **I'm a Bruce Lee doppelgänger in the size and weight department — same height, same build, just waiting for my martial arts skills to kick in!**
 
 <h3 align="left">Connect with me:</h3>
