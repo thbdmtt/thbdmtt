@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thbdmtt&label=Profile%20views&color=0e75b6&style=flat" alt="thbdmtt" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently working on **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thbdmtt](https://github.com/thbdmtt)
 
