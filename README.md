@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thibaud</h1>
-<h3 align="center">I love Data</h3>
 <img align="right" alt="Coding" width="400" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thbdmtt&label=Profile%20views&color=0e75b6&style=flat" alt="thbdmtt" /> </p>
