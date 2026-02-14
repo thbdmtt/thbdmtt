@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thbdmtt&label=Profile%20views&color=0e75b6&style=flat" alt="thbdmtt" /> </p>
 
-- 🌱 I’m currently working on **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thbdmtt](https://github.com/thbdmtt)
 
-- 💬 Ask me about **SQL, Python..**
 
 - ⚡ Fun fact </br> **I'm a Bruce Lee doppelgänger in the size and weight department — same height, same build, just waiting for my martial arts skills to kick in!**
 
