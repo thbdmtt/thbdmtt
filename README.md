@@ -1,16 +1,23 @@
-<h1 align="center">Hi 👋, I'm Thibaud</h1>
-<img align="right" alt="Coding" width="400" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif">
+# Vin, hospitalité et numérique
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thbdmtt&label=Profile%20views&color=0e75b6&style=flat" alt="thbdmtt" /> </p>
+Je conçois des sites et des outils numériques sobres pour les métiers du vin et de l’hospitalité.
 
+Mon approche croise l’expérience du service, la compréhension du produit et le développement web. Je privilégie les interfaces simples, les contenus vérifiés et les solutions réellement utilisables sur le terrain.
 
-- 👨‍💻 All of my projects are available at [https://github.com/thbdmtt](https://github.com/thbdmtt)
+## Travaux sélectionnés
 
+### [Atlas mentaux des vignobles](https://github.com/thbdmtt/atlas-mentaux-vins)
 
-- ⚡ Fun fact </br> **I'm a Bruce Lee doppelgänger in the size and weight department — same height, same build, just waiting for my martial arts skills to kick in!**
+Une application mobile de révision visuelle des régions viticoles françaises, installable et consultable hors connexion.
 
+### [Les Botanistes](https://github.com/thbdmtt/les-botanistes)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thbdmtt&show_icons=true&locale=en&layout=compact" alt="thbdmtt" /></p>
+Un prototype de site vitrine multilingue pour un restaurant parisien, avec carte administrable, réservation et travail éditorial.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thbdmtt&show_icons=true&locale=en" alt="thbdmtt" /></p>
+### Outils de service
 
+Des outils privés conçus pour structurer une carte des vins et retrouver rapidement les informations utiles en salle.
+
+---
+
+**Principes :** utilité métier · exactitude éditoriale · sobriété visuelle
