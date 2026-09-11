@@ -1,4 +1,4 @@
-# Thibaud Myotte
+# Thibaud M
 
 ### L’amour du vin. L’artisanat du code.
 
