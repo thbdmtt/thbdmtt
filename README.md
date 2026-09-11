@@ -1,23 +1,19 @@
-# Vin, hospitalité et numérique
+# Thibaud Myotte
 
-Je conçois des sites et des outils numériques sobres pour les métiers du vin et de l’hospitalité.
+### L’amour du vin. L’artisanat du code.
 
-Mon approche croise l’expérience du service, la compréhension du produit et le développement web. Je privilégie les interfaces simples, les contenus vérifiés et les solutions réellement utilisables sur le terrain.
+**Vin · Hospitalité** / **Développement web · Data**
 
-## Travaux sélectionnés
+Paris · Saint-Tropez · Saint-Barth
 
-### [Atlas mentaux des vignobles](https://github.com/thbdmtt/atlas-mentaux-vins)
+Je construis des expériences numériques sobres, attentives aux personnes, aux mots et aux détails.
 
-Une application mobile de révision visuelle des régions viticoles françaises, installable et consultable hors connexion.
+[Faire connaissance →](https://thbdmtt.github.io/)
 
-### [Les Botanistes](https://github.com/thbdmtt/les-botanistes)
+## Quelques pièces
 
-Un prototype de site vitrine multilingue pour un restaurant parisien, avec carte administrable, réservation et travail éditorial.
+- [**Robe**](https://github.com/thbdmtt/robe) — un atlas chromatique du vin.
+- [**Atlas mentaux des vignobles**](https://github.com/thbdmtt/atlas-mentaux-vins) — apprendre les vignobles français par l’image et la mémoire.
+- [**Les Botanistes**](https://github.com/thbdmtt/les-botanistes) — une expérience éditoriale et multilingue pour un restaurant parisien.
 
-### Outils de service
-
-Des outils privés conçus pour structurer une carte des vins et retrouver rapidement les informations utiles en salle.
-
----
-
-**Principes :** utilité métier · exactitude éditoriale · sobriété visuelle
+<sub>Utilité iétier · exactitude éditoriale · sobriété visuelle</sub>
