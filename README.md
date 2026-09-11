@@ -4,7 +4,6 @@
 
 **Vin · Hospitalité** / **Développement web · Data**
 
-Paris · Saint-Tropez · Saint-Barth
 
 Je construis des expériences numériques sobres, attentives aux personnes, aux mots et aux détails.
 
